@@ -1,0 +1,20 @@
+{
+  "name": "wk-14-cowboy-communications",
+  "version": "1.0.0",
+  "description": "MVC Tech Blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fishdestroyer/WK-14-Cowboy-Communications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fishdestroyer/WK-14-Cowboy-Communications/issues"
+  },
+  "homepage": "https://github.com/Fishdestroyer/WK-14-Cowboy-Communications#readme"
+}
